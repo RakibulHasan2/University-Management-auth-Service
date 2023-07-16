@@ -1,0 +1,7 @@
+npm init -y
+install typescript as dev dependencies
+install express and mongoose
+tsc --init
+go to tsConfig and change the OutDir location to ./dist and rootDir to src
+
+ 
